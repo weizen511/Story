@@ -5,3 +5,8 @@ secretFile.txt
 # This is comment!
 
 # *.exe 라고 적으면 exe확장자는 모두 커밋되지않는다.
+<<<<<<< HEAD
+=======
+
+This is sub branchs
+>>>>>>> sub-branchs
