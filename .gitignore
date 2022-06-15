@@ -1,0 +1,9 @@
+.DS_Store
+secretFile.txt
+.secret.txt
+
+# This is comment!
+
+# *.exe 라고 적으면 exe확장자는 모두 커밋되지않는다.
+
+This is sub branchs
